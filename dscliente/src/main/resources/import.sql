@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Aparecida Kamilly Rita Rodrigues','85603598697',418, NOW(),2);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Nicole Sarah Aline Sales','18812045618',953, NOW(),1);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Tereza Renata Oliveira','42888552256',90, NOW(),4);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Marcelo Raimundo da Conceição','32397877414',55, NOW(),6);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Simone Joana Rafaela Castro','92169138005',20, NOW(),7);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Giovanni Enzo da Costa','34938834120',30, NOW(),8);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Antonella Sandra Cardoso','32408534186',45, NOW(),3);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Isabel Lara Aline Lima','81484537807',64, NOW(),1);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('César Marcos Vinicius Marcos Ribeiro','27354660515',15, NOW(),9);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Anderson Paulo Assis','31805178083',10, NOW(),4);
